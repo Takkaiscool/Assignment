@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "type": "array",
+  "type": "object",
+  "properties": {
+    "postId": {
+      "type": "integer"
+    },
+    "userId": {
+      "type": "integer"
+    },
+    "id": {
+      "type": "integer"
+    },
+    "title": {
+      "type": "string"
+    },
+    "body": {
+      "type": "string"
+    }
+  }
+}

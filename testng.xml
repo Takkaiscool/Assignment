@@ -1,0 +1,5 @@
+<test name="Api Testing Assignment">
+    <classes>
+        <class name="ApiTesting"/>
+    </classes>
+</test>
